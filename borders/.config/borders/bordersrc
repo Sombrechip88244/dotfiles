@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# This hides the rounded corners by drawing a square border over them
+borders \
+    width=6.0 \
+    hidpi=on \
+    active_color=0xff7793d1 \
+    inactive_color=0xff444444 \
+    background_color=0x00000000
